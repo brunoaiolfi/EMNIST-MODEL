@@ -1,0 +1,9 @@
+Flask
+tensorflow
+numpy
+opencv-python-headless
+imutils
+scikit-learn
+joblib
+Pillow
+flask-cors
